@@ -1,4 +1,4 @@
-#How to run?
+# How to run?
 
 This program will create and printout a randomly generated list from 1 to 10,000 (inclusive nad unique).
 
