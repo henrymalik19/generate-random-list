@@ -1,7 +1,7 @@
 const { test, beforeAll, expect } = require('@jest/globals');
 const exercise = require('./exercise.js');
 
-const maxNumber = 10;
+const maxNumber = 10000;
 
 describe('generateRandomList', () => {
     test('returns array of length max number', () => {
