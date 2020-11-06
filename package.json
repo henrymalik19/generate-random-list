@@ -1,0 +1,15 @@
+{
+  "name": "pandell-exercise",
+  "version": "1.0.0",
+  "description": "A program to generate a random list from 1 to max number specified",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js"
+  },
+  "author": "Malik Henry <me@malikhenry.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
